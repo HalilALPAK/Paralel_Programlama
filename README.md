@@ -1,4 +1,4 @@
-# Paralel_Programlama
+# Paralel_Programlama - Odev-2
 Çokgen Dışbükeylik Kontrol Uygulaması
 Bu Java Swing tabanlı masaüstü uygulaması, kullanıcıların etkileşimli bir şekilde çokgenler çizmesini ve bu çokgenlerin dışbükey (convex) veya içbükey (concave) olup olmadığını hem seri (tek işlemcili) hem de paralel (çok işlemcili) algoritmalarla kontrol etmesini sağlar. Uygulama, algoritmaların performans farklarını mikrosaniye (µs) cinsinden görsel olarak sunar.
 
